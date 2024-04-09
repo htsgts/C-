@@ -32,7 +32,7 @@ namespace project_2
 
             Console.WriteLine("Total : {0, -7:x}", 255);
 
-            //문자열 모간(Interpolation)
+            //문자열 보간(Interpolation)
             //① 문자열 틀 앞에 $ 기호를 붙인다.
             //② 서식 항목에 첨자 대신 식이 들어간다.
 
