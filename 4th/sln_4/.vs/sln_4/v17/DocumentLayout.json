@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Study_A\\4th\\sln_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75A28374-7886-49CE-B19D-EEA20EC11F8C}|project_3\\project_3.csproj|D:\\Study_A\\4th\\sln_4\\project_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75A28374-7886-49CE-B19D-EEA20EC11F8C}|project_3\\project_3.csproj|d:\\study_a\\4th\\sln_4\\project_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75A28374-7886-49CE-B19D-EEA20EC11F8C}|project_3\\project_3.csproj|solutionrelative:project_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{99D99AD2-951D-479B-A65D-2E470E1D940E}|project_2\\project_2.csproj|solutionrelative:project_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C4B3BE-813A-4977-98B5-8D59DF7C4753}|project_1\\project_1.csproj|d:\\study_a\\4th\\sln_4\\project_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C4B3BE-813A-4977-98B5-8D59DF7C4753}|project_1\\project_1.csproj|D:\\Study_A\\4th\\sln_4\\project_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C4B3BE-813A-4977-98B5-8D59DF7C4753}|project_1\\project_1.csproj|solutionrelative:project_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "project_3\\Program.cs",
               "ToolTip": "D:\\Study_A\\4th\\sln_4\\project_3\\Program.cs",
               "RelativeToolTip": "project_3\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBsAAAAgAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T01:06:28.237Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "project_2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T00:38:36.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T00:38:36.116Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "project_1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T00:06:49.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T00:06:49.448Z"
             }
           ]
         }
