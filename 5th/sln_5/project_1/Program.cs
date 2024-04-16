@@ -11,7 +11,7 @@ namespace project_1
         static void Main(string[] args)
         {
             //조건문
-            /*Console.WriteLine("숫자 입력:");
+            Console.WriteLine("숫자 입력:");
             int input = int.Parse(Console.ReadLine());
 
             if (input % 2 == 0) { Console.WriteLine("짝수입니다."); }
@@ -30,7 +30,7 @@ namespace project_1
                 case 1: 
                     Console.WriteLine("홀수");
                     break;
-            }*/
+            }
 
 
 
