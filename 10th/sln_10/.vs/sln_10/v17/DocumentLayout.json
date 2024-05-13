@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{CAA83FBA-26C7-43DE-B7B7-86D1FF4B9091}|project_2\\project_2.csproj|solutionrelative:project_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39BE1026-83E5-436C-B8DC-861AEF30A55E}|project_3\\project_3.csproj|d:\\study_a\\10th\\sln_10\\project_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39BE1026-83E5-436C-B8DC-861AEF30A55E}|project_3\\project_3.csproj|D:\\Study_A\\10th\\sln_10\\project_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39BE1026-83E5-436C-B8DC-861AEF30A55E}|project_3\\project_3.csproj|solutionrelative:project_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73DB9BB0-ACBE-4145-9C5B-B669D17BC8C8}|project_1\\project_1.csproj|d:\\study_a\\10th\\sln_10\\project_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73DB9BB0-ACBE-4145-9C5B-B669D17BC8C8}|project_1\\project_1.csproj|D:\\Study_A\\10th\\sln_10\\project_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73DB9BB0-ACBE-4145-9C5B-B669D17BC8C8}|project_1\\project_1.csproj|solutionrelative:project_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73DB9BB0-ACBE-4145-9C5B-B669D17BC8C8}|project_1\\project_1.csproj|d:\\study_a\\10th\\sln_10\\project_1\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73DB9BB0-ACBE-4145-9C5B-B669D17BC8C8}|project_1\\project_1.csproj|D:\\Study_A\\10th\\sln_10\\project_1\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73DB9BB0-ACBE-4145-9C5B-B669D17BC8C8}|project_1\\project_1.csproj|solutionrelative:project_1\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "project_3\\Program.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAQwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T02:09:53.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T02:09:53.042Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "project_2\\Program.cs",
               "ToolTip": "D:\\Study_A\\10th\\sln_10\\project_2\\Program.cs",
               "RelativeToolTip": "project_2\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAQwCUAAAAmAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAACUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T01:33:06.414Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "project_1\\MyMath.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T00:15:19.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T00:15:19.715Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "project_1\\Program.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAQwDcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T00:03:43.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T00:03:43.044Z"
             }
           ]
         }
