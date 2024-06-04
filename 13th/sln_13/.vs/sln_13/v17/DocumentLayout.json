@@ -7,40 +7,40 @@
       "RelativeMoniker": "D:0:0:{AE610D0E-50F3-4809-AB6F-284633F73DE9}|project_1\\project_1.csproj|solutionrelative:project_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD147C91-F40F-4E2E-9DB5-ED8DF4DB925C}|CInheritance\\CInheritance.csproj|d:\\study_a\\13th\\sln_13\\cinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD147C91-F40F-4E2E-9DB5-ED8DF4DB925C}|CInheritance\\CInheritance.csproj|solutionrelative:cinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AE10CFA-5432-4AE6-A192-63DB7A53CA49}|BInheritance\\BInheritance.csproj|d:\\study_a\\13th\\sln_13\\binheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AE10CFA-5432-4AE6-A192-63DB7A53CA49}|BInheritance\\BInheritance.csproj|D:\\Study_A\\13th\\sln_13\\binheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AE10CFA-5432-4AE6-A192-63DB7A53CA49}|BInheritance\\BInheritance.csproj|solutionrelative:binheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD147C91-F40F-4E2E-9DB5-ED8DF4DB925C}|CInheritance\\CInheritance.csproj|d:\\study_a\\13th\\sln_13\\cinheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD147C91-F40F-4E2E-9DB5-ED8DF4DB925C}|CInheritance\\CInheritance.csproj|solutionrelative:cinheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD147C91-F40F-4E2E-9DB5-ED8DF4DB925C}|CInheritance\\CInheritance.csproj|d:\\study_a\\13th\\sln_13\\cinheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD147C91-F40F-4E2E-9DB5-ED8DF4DB925C}|CInheritance\\CInheritance.csproj|solutionrelative:cinheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AE10CFA-5432-4AE6-A192-63DB7A53CA49}|BInheritance\\BInheritance.csproj|d:\\study_a\\13th\\sln_13\\binheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AE10CFA-5432-4AE6-A192-63DB7A53CA49}|BInheritance\\BInheritance.csproj|D:\\Study_A\\13th\\sln_13\\binheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AE10CFA-5432-4AE6-A192-63DB7A53CA49}|BInheritance\\BInheritance.csproj|solutionrelative:binheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD147C91-F40F-4E2E-9DB5-ED8DF4DB925C}|CInheritance\\CInheritance.csproj|d:\\study_a\\13th\\sln_13\\cinheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD147C91-F40F-4E2E-9DB5-ED8DF4DB925C}|CInheritance\\CInheritance.csproj|solutionrelative:cinheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AE10CFA-5432-4AE6-A192-63DB7A53CA49}|BInheritance\\BInheritance.csproj|d:\\study_a\\13th\\sln_13\\binheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AE10CFA-5432-4AE6-A192-63DB7A53CA49}|BInheritance\\BInheritance.csproj|D:\\Study_A\\13th\\sln_13\\binheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AE10CFA-5432-4AE6-A192-63DB7A53CA49}|BInheritance\\BInheritance.csproj|solutionrelative:binheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AE10CFA-5432-4AE6-A192-63DB7A53CA49}|BInheritance\\BInheritance.csproj|d:\\study_a\\13th\\sln_13\\binheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AE10CFA-5432-4AE6-A192-63DB7A53CA49}|BInheritance\\BInheritance.csproj|D:\\Study_A\\13th\\sln_13\\binheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AE10CFA-5432-4AE6-A192-63DB7A53CA49}|BInheritance\\BInheritance.csproj|solutionrelative:binheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7D5BA9C-C09E-4150-A3BB-DF80F423DBEB}|AInheritance\\AInheritance.csproj|d:\\study_a\\13th\\sln_13\\ainheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7D5BA9C-C09E-4150-A3BB-DF80F423DBEB}|AInheritance\\AInheritance.csproj|D:\\Study_A\\13th\\sln_13\\ainheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7D5BA9C-C09E-4150-A3BB-DF80F423DBEB}|AInheritance\\AInheritance.csproj|solutionrelative:ainheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD147C91-F40F-4E2E-9DB5-ED8DF4DB925C}|CInheritance\\CInheritance.csproj|D:\\Study_A\\13th\\sln_13\\cinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD147C91-F40F-4E2E-9DB5-ED8DF4DB925C}|CInheritance\\CInheritance.csproj|solutionrelative:cinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD147C91-F40F-4E2E-9DB5-ED8DF4DB925C}|CInheritance\\CInheritance.csproj|D:\\Study_A\\13th\\sln_13\\cinheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD147C91-F40F-4E2E-9DB5-ED8DF4DB925C}|CInheritance\\CInheritance.csproj|solutionrelative:cinheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD147C91-F40F-4E2E-9DB5-ED8DF4DB925C}|CInheritance\\CInheritance.csproj|D:\\Study_A\\13th\\sln_13\\cinheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD147C91-F40F-4E2E-9DB5-ED8DF4DB925C}|CInheritance\\CInheritance.csproj|solutionrelative:cinheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD147C91-F40F-4E2E-9DB5-ED8DF4DB925C}|CInheritance\\CInheritance.csproj|D:\\Study_A\\13th\\sln_13\\cinheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD147C91-F40F-4E2E-9DB5-ED8DF4DB925C}|CInheritance\\CInheritance.csproj|solutionrelative:cinheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,14 +60,14 @@
               "RelativeDocumentMoniker": "project_1\\Program.cs",
               "ToolTip": "D:\\Study_A\\13th\\sln_13\\project_1\\Program.cs",
               "RelativeToolTip": "project_1\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAADwvw0AAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T02:34:02.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Dog.cs",
               "DocumentMoniker": "D:\\Study_A\\13th\\sln_13\\CInheritance\\Dog.cs",
               "RelativeDocumentMoniker": "CInheritance\\Dog.cs",
@@ -75,12 +75,11 @@
               "RelativeToolTip": "CInheritance\\Dog.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T01:34:14.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T01:34:14.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Animal.cs",
               "DocumentMoniker": "D:\\Study_A\\13th\\sln_13\\CInheritance\\Animal.cs",
               "RelativeDocumentMoniker": "CInheritance\\Animal.cs",
@@ -88,12 +87,11 @@
               "RelativeToolTip": "CInheritance\\Animal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T01:33:42.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T01:33:42.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Cat.cs",
               "DocumentMoniker": "D:\\Study_A\\13th\\sln_13\\CInheritance\\Cat.cs",
               "RelativeDocumentMoniker": "CInheritance\\Cat.cs",
@@ -101,12 +99,11 @@
               "RelativeToolTip": "CInheritance\\Cat.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T01:33:18.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T01:33:18.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study_A\\13th\\sln_13\\CInheritance\\Program.cs",
               "RelativeDocumentMoniker": "CInheritance\\Program.cs",
@@ -114,12 +111,11 @@
               "RelativeToolTip": "CInheritance\\Program.cs",
               "ViewState": "AQIAADcAAAAAAAAAAADwv1AAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T01:31:07.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T01:31:07.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Cat.cs",
               "DocumentMoniker": "D:\\Study_A\\13th\\sln_13\\BInheritance\\Cat.cs",
               "RelativeDocumentMoniker": "BInheritance\\Cat.cs",
@@ -132,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Dog.cs",
               "DocumentMoniker": "D:\\Study_A\\13th\\sln_13\\BInheritance\\Dog.cs",
               "RelativeDocumentMoniker": "BInheritance\\Dog.cs",
@@ -145,39 +141,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Animal.cs",
               "DocumentMoniker": "D:\\Study_A\\13th\\sln_13\\BInheritance\\Animal.cs",
               "RelativeDocumentMoniker": "BInheritance\\Animal.cs",
               "ToolTip": "D:\\Study_A\\13th\\sln_13\\BInheritance\\Animal.cs",
               "RelativeToolTip": "BInheritance\\Animal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T01:03:46.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study_A\\13th\\sln_13\\BInheritance\\Program.cs",
               "RelativeDocumentMoniker": "BInheritance\\Program.cs",
               "ToolTip": "D:\\Study_A\\13th\\sln_13\\BInheritance\\Program.cs",
               "RelativeToolTip": "BInheritance\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T01:03:14.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study_A\\13th\\sln_13\\AInheritance\\Program.cs",
               "RelativeDocumentMoniker": "AInheritance\\Program.cs",
               "ToolTip": "D:\\Study_A\\13th\\sln_13\\AInheritance\\Program.cs",
               "RelativeToolTip": "AInheritance\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAbAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T00:07:15.635Z",
               "EditorCaption": ""
